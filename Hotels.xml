@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Courses.xsl"?>
 <Hotels xmlns ="https://calving2738.github.io/cse445_a4"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:SchemaLocation="https://calving2738.github.io/cse445_a4/Hotels.xsd">
