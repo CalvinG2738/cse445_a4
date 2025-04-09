@@ -1,6 +1,6 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 		xmlns="https://calving2738.github.io/cse445_a4"		   
-		targetNamescape="https://calving2738.github.io/cse445_a4"
+		targetNamespace="https://calving2738.github.io/cse445_a4"
 		elementFormDefault="qualified" attributeFormDefault="unqualified">
 
 	<xsd:element name="Hotels">
